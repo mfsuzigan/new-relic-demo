@@ -1,0 +1,23 @@
+Feb 21, 2019 15:52:59 -0300 [18399 1] com.newrelic INFO: Writing to New Relic log file: /home/michel/Documents/apresentacao_new_relic/workspace/new-relic-demo/newrelic/logs/newrelic_agent.log
+Feb 21, 2019 15:52:59 -0300 [18399 1] com.newrelic INFO: JRE vendor Oracle Corporation version 1.8.0_151
+Feb 21, 2019 15:52:59 -0300 [18399 1] com.newrelic INFO: JVM vendor Oracle Corporation Java HotSpot(TM) 64-Bit Server VM version 25.151-b12
+Feb 21, 2019 15:52:59 -0300 [18399 1] com.newrelic INFO: OS Linux version 4.10.0-42-generic arch amd64
+Feb 21, 2019 15:52:59 -0300 [18399 1] com.newrelic INFO: Agent Host: UOL-TQI-22 IP: 127.0.1.1
+Feb 21, 2019 15:52:59 -0300 [18399 1] com.newrelic INFO: New Relic Agent v4.11.0 is initializing...
+Feb 21, 2019 15:53:02 -0300 [18399 1] com.newrelic.agent.RPMServiceManagerImpl INFO: Configured to connect to New Relic at collector.newrelic.com:443
+Feb 21, 2019 15:53:02 -0300 [18399 1] com.newrelic INFO: Setting audit_mode to false
+Feb 21, 2019 15:53:02 -0300 [18399 1] com.newrelic INFO: Setting protocol to "https"
+Feb 21, 2019 15:53:04 -0300 [18399 1] com.newrelic.agent.config.ConfigServiceImpl INFO: Configuration file is /home/michel/Documents/apresentacao_new_relic/workspace/new-relic-demo/newrelic/./newrelic.yml
+Feb 21, 2019 15:53:04 -0300 [18399 1] com.newrelic INFO: New Relic Agent v4.11.0 has started
+Feb 21, 2019 15:53:04 -0300 [18399 1] com.newrelic INFO: Agent class loader: com.newrelic.bootstrap.BootstrapAgent$JVMAgentClassLoader@e2144e4
+Feb 21, 2019 15:53:04 -0300 [18399 1] com.newrelic INFO: Premain startup complete in 6,057ms
+Feb 21, 2019 15:53:07 -0300 [18399 1] com.newrelic INFO: Server Info: Apache Tomcat/9.0.16
+Feb 21, 2019 15:53:09 -0300 [18399 28] com.newrelic INFO: Host name is UOL-TQI-22, display host UOL-TQI-22 for application new-relic-demo
+Feb 21, 2019 15:53:10 -0300 [18399 28] com.newrelic INFO: Collector redirection to collector-005.newrelic.com:443
+Feb 21, 2019 15:53:11 -0300 [18399 28] com.newrelic INFO: Max payload size is 1,000,000 bytes
+Feb 21, 2019 15:53:11 -0300 [18399 28] com.newrelic INFO: Agent run id: BJ4YNn4nKoc0ACH6dAeCtupcbvOMAAIBAAAjHQECBAeGhScDAAY0LjExLjAAClVPTC1UUUktMjIADm5ldy1yZWxpYy1kZW1v
+Feb 21, 2019 15:53:11 -0300 [18399 28] com.newrelic INFO: Agent 18399@UOL-TQI-22/new-relic-demo connected to collector.newrelic.com:443
+Feb 21, 2019 15:53:11 -0300 [18399 28] com.newrelic INFO: Reporting to: https://rpm.newrelic.com/accounts/2226804/applications/126256423
+Feb 21, 2019 15:53:11 -0300 [18399 28] com.newrelic INFO: Using default collector host: collector.newrelic.com
+Feb 21, 2019 15:53:11 -0300 [18399 28] com.newrelic INFO: Using default collector host: collector.newrelic.com
+Feb 21, 2019 15:53:11 -0300 [18399 28] com.newrelic INFO: Real user monitoring is enabled with auto instrumentation for application "new-relic-demo"
